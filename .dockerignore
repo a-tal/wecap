@@ -1,0 +1,6 @@
+wecap
+*.sh
+.gitignore
+README.md
+Makefile
+Dockerfile
